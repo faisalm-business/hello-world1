@@ -1,6 +1,6 @@
-#This is my first code
+#This is my second code
 
-for x = 1 to 10:
-  print "Hello World"
+for x = 2 to 20:
+  print "Hello Universe"
 end for loop
 
