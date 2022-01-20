@@ -1,0 +1,6 @@
+#This is my first code
+
+for x = 1 to 10:
+  print "Hello World"
+end for loop
+
